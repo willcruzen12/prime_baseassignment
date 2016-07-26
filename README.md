@@ -1,0 +1,3 @@
+# The First Assignment
+
+This readme file is here to describe the other files that are part of this assignment. The index.html file is the heart of it all, since both the app.js file and the stylesheet are connected to it. It doesn't do much other than that at this time. The app.js file contains code to display my name and the date these files were created. I left the stylesheet blank since it is currently not needed.
